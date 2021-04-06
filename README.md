@@ -10,7 +10,7 @@ Deep neural networks built on a type-based automatic differentiation system
 
 ---
 
-What is PyTorch?
+**What is PyTorch?**
 
 Let’s understand what PyTorch is and why it has become so popular lately, before diving into it’s implementation.
 
@@ -25,7 +25,7 @@ Recently, PyTorch 1.0 was released and it was aimed to assist researchers by add
 
 Intrinsically, there are two main characteristics of PyTorch that distinguish it from other deep learning frameworks like Tensorflow:
 
-- Imperative Programming*
+- Imperative Programming
 - Dynamic Computation Graphing
 
 
